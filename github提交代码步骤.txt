@@ -1,0 +1,17 @@
+//王松年
+
+1.在github创建仓库
+2.打开github bash here
+3.克隆仓库到本地：git clone 仓库的网址
+4.把要上传的代码放入 本地仓库
+5.cd 仓库
+6.git add .(点不能省略)
+7.git commit  -m  "提交信息" 
+8.git push -u origin master
+9.结束后输入exit退出。
+10.更新文件或代码时在仓库文件下执行步骤2、6-9.
+
+
+全局配置git用户名和邮箱
+git config --global user.name "用户名"
+git config --global user.email 邮箱
